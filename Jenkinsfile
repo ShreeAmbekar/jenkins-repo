@@ -1,4 +1,4 @@
-pipeline {
+ipipeline {
     agent any
 
     stages {
@@ -33,7 +33,7 @@ pipeline {
 
             steps {
                 
-                    echo "This is master branch"
+                    echo "This is mayur  branch"
                 }
             
         }
